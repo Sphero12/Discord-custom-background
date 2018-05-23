@@ -1,0 +1,128 @@
+#app-mount {
+  	background-color: rgb(0, 0, 0, 0.15) !important;
+  	/*background-image: url("http://hdpicturez.com/wp-content/uploads/2016/08/Galaxy-Wallpaper-Widescreen-2560x1440.jpg") !important;*/
+    background-image: url("https://wallup.net/wp-content/uploads/2016/01/9790-nebula-stars-space-TylerCreatesWorlds-space_art.jpg") !important;
+    background-position: center;
+    background-size: 100vw 100vh;
+}
+
+.layers-3iHuyZ, .layer-3QrUeG, .container-2lgZY8, .guild .guild-inner, .theme-dark .chat, .theme-dark .chat>.content, .theme-dark .messages-wrapper, .typing-2GQL18 {
+    background-color: transparent !important;
+}
+
+.guilds-wrapper {
+    background-color: rgb(0, 0, 0, 0.6) !important;
+}
+
+/* Channels, members, DMs background is 0.4 opacity
+.channels-Ie2l6A*/
+.container-PNkimc, .theme-dark .members-1998pB, .container-2Thooq, .channels-Ie2l6A {
+    background-color: rgb(0, 0, 0, 0.4) !important;
+}
+
+.nameDefaultText-24KCy5, .nameDefault-2DI02H {
+    color: rgb(255, 255, 255, 0.7) !important;
+}
+
+.theme-dark .messages-wrapper, .theme-dark .chat form, .theme-dark .title-3qD0b- {
+    background-color: rgb(0, 0, 0, 0.4) !important;
+}
+
+.contentSelectedText-3wUhMi {
+    background-color: rgb(0, 0, 0, 0.3) !important;
+}
+
+.chat {
+    background-color: transparent !important;
+    color: rgb(255, 255, 255, 0.6) !important;
+}
+
+.theme-dark.contextMenu-HLZMGh, .menu-Sp6bN1, .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6, .theme-dark .headerNormal-T_seeN, .theme-dark .typing-2GQL18{
+    background-color: rgb(40, 40, 40, 0.9) !important;
+}
+
+.theme-dark .itemSubMenu-1vN_Yn {
+    background: url(/assets/1988164a7c55346d32117b151f4e319d.svg) no-repeat 155px 50%;
+}
+
+.theme-dark .memberOnline-1CIh-0:hover {
+    background-color: rgb(0, 0, 0, 0.2);
+}
+
+.headerPlaying-j0WQBV {
+    background: rgb(114, 137, 218, 0.9);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Make elements transparent *
+.guilds-wrapper, .app-XZYfmp, .app, .layer-kosS71, .layers-20RVFW, .container-2OU7Cz, .channels-3g2vYe, .container-RYiLUQ, .chat, .chat>.content, .messages-wrapper, .channel-members, .chat form, .title-qAcLxz, #friends, .headerBar-cxbhPD, .friends-table {
+	 background-color: rgba(0, 0, 0, 0.15) !important;
+}
+
+/* Is typing text transparent *
+.typing-3eiiL_ {
+		background-color: transparent !important;
+}
+
+/* Message Text Color *
+.comment .markup {
+		color: white !important;
+}
+.scroller.scrolling>*{
+    pointer-events:none
+}
+.scroller-wrap .scroller::-webkit-scrollbar {
+    width: 14px;
+}
+.scroller-wrap .scroller::-webkit-scrollbar-thumb, .scroller-wrap .scroller::-webkit-scrollbar-track-piece {
+    background-clip: padding-box;
+	  background-color: rgba(20, 20, 20, 0.45) !important;
+	  border: 3px solid rgba(47, 49, 54, 0.45) !important;
+	  border-radius: 8px;
+}
+.scroller-wrap .scroller::-webkit-scrollbar-track-piece {
+	  background-color: rgba(47, 49, 54, 0.45) !important;
+}
+.scroller-wrap.polyfill .scroller {
+	  padding-right: 14px
+}
+.scroller-wrap .scrollbar {
+	  background-color: rgba(47, 49, 54, 0.45) !important;
+	  bottom: 0;
+	  display: -webkit-box;
+	  display: -ms-flexbox;
+	  display: flex;pointer-events:none;
+	  position: absolute;
+	  right: 0;
+	  top: 0;
+	  width: 14px
+}
+.status {
+    border-color: rgba(20, 20, 20, 0.6) !important;
+}
+
+.member:hover {
+		background-color: rgba(0, 0, 0, 0.3) !important;
+		background: rgba(0, 0, 0, 0.3) !important;
+}
+/* Hover over channel styling*
+.contentHoveredText-2HYGIY {
+	 background-color: rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Members wrapper and hover *
+.member:hover, .scroller-fzNley.members-1bid1J {
+    background-color: rgba(0, 0, 0, 0.3) !important;
+}
+*/

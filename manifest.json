@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "The Ultimate Discord Extension",
+    "short_name": "Discord Styling",
+    "version": "0.2.5",
+    "description": "This extension allows you to personalize your Discord exprience!",
+    "icons": {
+        "16": "/images/icon16.png",
+        "32": "/images/icon32.png",
+        "48": "/images/icon48.png",
+        "128": "/images/icon128.png",
+        "256": "/images/icon256.png"
+    },
+    "browser_action": {
+        "name": "The Ultimate Discord Extension",
+        "default_icon": "/images/icon128.png"
+    },
+    "content_scripts": [{
+        "css": ["style.css"],
+        "matches": ["https://discordapp.com/*"]
+    }]
+}
